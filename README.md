@@ -30,3 +30,7 @@
 11.使用AngularDart来实际参与我们的项目
 
 * 注意，你在任何一个阶段都可以提交上来给我评点，比如你作为练手做了一个和项目完全不相干的HTML网站。
+
+## pub代理问题
+
+pub国内联不上的话可以考虑用镜像站，把环境变量换成set PUB_HOSTED_URL=https://dart-pub.mirrors.sjtug.sjtu.edu.cn
