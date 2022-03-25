@@ -1,36 +1,29 @@
 # FrontEnd
-这里是网站的前端部分
 
-## What to do
-
-我们的核心宗旨是完成团购网站，没有任何要求，各位按照自己的想象随意创作。可以参考 www.bulletproof.com 或者淘宝、京东、亚马逊等网站的网页设计。
+這裡是前端挑戰
 
 ## Tutorials
 
-1.学习HTML5：https://www.w3schools.com/
+1.學習HTML5：https://www.w3schools.com/
 
-2.使用HTML5构建一个差不多的静态网页
+2.使用HTML5構建一個差不多的靜態網頁
 
-3.学习CSS3： https://www.w3schools.com/
+3.學習CSS3： https://www.w3schools.com/
 
-4.使用HTML5+CSS3构建一个好看的静态网页
+4.使用HTML5+CSS3構建一個好看的靜態網頁
 
-5.学习JavaScript：https://www.w3schools.com/
+5.學習JavaScript：https://www.w3schools.com/
 
-6.尝试JavaScript来学习如何让网页实现交互
+6.嘗試JavaScript來學習如何讓網頁實現互動
 
-7.学习Bootstrap来了解现代工业如何快速生产好看的网页（我们不会使用Bootstrap）：https://www.w3schools.com/
+7.學習Bootstrap來了解現代工業如何快速生產好看的網頁（我們不會使用Bootstrap）：https://www.w3schools.com/
 
-8.使用Bootstrap来让你的网页更好看
+8.使用Bootstrap來讓你的網頁更好看
 
-9.学习Dart 2来替代JavaScript：https://www.dartlang.org/
+9.學習Dart來替代JavaScript：https://www.dartlang.org/
 
-10.学习AngularDart来了解如何使用现代工业框架构建网站：https://webdev.dartlang.org/angular
+10.學習AngularDart來了解如何使用現代工業框架構建網站：https://webdev.dartlang.org/angular
 
-11.使用AngularDart来实际参与我们的项目
+11.學習Flutter：https://flutter.dev/
 
-* 注意，你在任何一个阶段都可以提交上来给我评点，比如你作为练手做了一个和项目完全不相干的HTML网站。
-
-## pub代理问题
-
-pub国内联不上的话可以考虑用镜像站，把环境变量换成set PUB_HOSTED_URL=https://dart-pub.mirrors.sjtug.sjtu.edu.cn
+* 注意，你在任何一個階段都可以提交上來給我評點，比如你作為練手做了一個和專案完全不相干的HTML網站。
